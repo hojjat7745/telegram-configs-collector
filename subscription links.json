@@ -1,0 +1,20 @@
+[
+    "https://sub.diba.workers.dev",
+    "https://sub.dibaserver.tech",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
+    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/donated",
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vmess",
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/vless",
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/reality",
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/trojan",
+    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/shadowsocks",
+    "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/proxies_row_url.txt",
+    "https://nika.vipdns.online/api/v1/client/subscribe?token=3177bc7afc56a7bf255d383b3a9132e9",
+    "https://zahedan.us/subs_link?user_id=6138834161&sign=b38a7ca7",
+    "http://bot.bijar.online/subs_link?user_id=6138834161&sign=b38a7ca7",
+    "https://sub.arashvpn.com/?userId=09ea0fc5-dd7c-435c-bcac-97255be01503"
+]
