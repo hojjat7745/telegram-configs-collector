@@ -1,3 +1,4 @@
 #Non-Adaptive Configurations
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#SHADOWSOCKS
+ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ%3D%3D@ss.sps1.sbs:20#SHADOWSOCKS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZGU%3D@de-1.stunnel.cc:8444#SHADOWSOCKS
 trojan://@127.0.0.1:1080?security=&type=tcp#TROJAN
