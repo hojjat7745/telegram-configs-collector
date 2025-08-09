@@ -1,4 +1,8 @@
 #Non-Adaptive Configurations
-ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ%3D%3D@ss.sps1.sbs:20#SHADOWSOCKS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZGU%3D@de-1.stunnel.cc:8444#SHADOWSOCKS
+ss://52d726aa-b3b0-46a3-8c6d-b5421ef8b1a1@stupid-erica-vz-76e7190b.koyeb.app:443#SHADOWSOCKS
+ss://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80#SHADOWSOCKS
+ss://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443#SHADOWSOCKS
+ss://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096#SHADOWSOCKS
+ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096#SHADOWSOCKS
+vless://YXV0bzo1ZDI1NTcyZS05YjFhLTQyZTAtODVkMi1hZDNkZTk1MzU5ODFAMTAzLjE0Ljc3LjM5OjE5OTUx?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%8B%BC%E5%A5%BD%E9%B8%A1&tls=1&peer=aws.amazon.com&xtls=2&pbk=jrs7xNGgwYwoNNW2Skssztvlz0fVjBuwpr9VTTXZsU4#VLESS
 trojan://@127.0.0.1:1080?security=&type=tcp#TROJAN
